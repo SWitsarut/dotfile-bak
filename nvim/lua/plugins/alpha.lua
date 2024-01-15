@@ -37,7 +37,7 @@ return {
 		}
 
 		local function footer()
-			return "Haskell can suck mo' nads"
+			return "I would like to rest please"
 		end
 
 		dashboard.section.footer.val = footer()
